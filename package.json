@@ -1,0 +1,22 @@
+{
+  "name": "lab-14",
+  "version": "1.0.0",
+  "description": "Number and name of feature: ________________________________",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maisabdalrazeq/lab-14.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maisabdalrazeq/lab-14/issues"
+  },
+  "homepage": "https://github.com/Maisabdalrazeq/lab-14#readme",
+  "dependencies": {
+    "pg": "^8.4.2"
+  }
+}
